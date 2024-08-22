@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Roshiq2/Leethub/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Roshiq2/Leethub/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
