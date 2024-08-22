@@ -5,6 +5,9 @@ class Solution:
         m=200000
         while low<=high:
             mid=low+(high-low)//2
+            if nums[low]<=nums[high]:
+                m=min(m,nums[low])
+                break
             if nums[low]<=nums[mid]:
                 m=min(m,nums[low])
                 low=mid+1
