@@ -12,7 +12,8 @@ class Solution:
                 else:
                     end=mid-1
             return False
-        for i in matrix:
-            if bs(i,target):
-                return True
+        for k,v in enumerate(matrix):
+            if target <= v[-1]:
+                if bs(v,target):
+                    return True
         return False
