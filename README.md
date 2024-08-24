@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Roshiq2/Leethub/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Roshiq2/Leethub/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -96,8 +97,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
