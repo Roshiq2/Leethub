@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Roshiq2/Leethub/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Roshiq2/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -155,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Roshiq2/Leethub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Roshiq2/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
