@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Roshiq2/Leethub/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Roshiq2/Leethub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Roshiq2/Leethub/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Roshiq2/Leethub/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Roshiq2/Leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
