@@ -1,67 +1,59 @@
-class Solution {
-    public void solveSudoku(char[][] board) {
-        // Start solving sudoku from the first cell
-        solve(board, 0, 0);
-    }
-
-    private boolean solve(char[][] board, int row, int col) {
-        // Base case: If row is equal to board length, entire board has been filled
-        if (row == board.length) {
-            return true;
-        }
-        
-        // Move to next row when current row is fully filled
-        if (col == board[0].length) {
-            return solve(board, row + 1, 0);
-        }
-        
-        // Skip cells that are already filled
-        if (board[row][col] != '.') {
-            return solve(board, row, col + 1);
-        }
-        
-        // Try different numbers in current cell
-        for (char num = '1'; num <= '9'; num++) {
-            if (isValidPlacement(board, row, col, num)) {
-                board[row][col] = num; // Fill current cell with valid number
-                
-                // Move to next cell
-                if (solve(board, row, col + 1)) {
-                    return true;
-                }
-                
-                // Backtrack to previous state if solution not found
-                board[row][col] = '.';
-            }
-        }
-        
-        // No valid solution found
-        return false;
-    }
-
-    private boolean isValidPlacement(char[][] board, int row, int col, char num) {
-        // Check if num is already in the same row, column or 3x3 subgrid
-        for (int i = 0; i < board.length; i++) {
-            // Check row
-            if (board[i][col] == num) {
+class Solution { 
+    public boolean isSafe(char[][] board, int row, int col, int number) { 
+        //column 
+        for(int i=0; i<board.length; i++) {
+            if(board[i][col] == (char)(number+'0')) { 
                 return false;
-            }
-
-            // Check column
-            if (board[row][i] == num) {
+            } 
+        } 
+        //row
+        for(int j=0; j<board.length; j++) { 
+            if(board[row][j] == (char)(number+'0')) { 
                 return false;
-            }
- 
-            // Check 3x3 subgrid
-            int subgridRow = 3 * (row / 3) + i / 3; // Calculate row index of subgrid
-            int subgridCol = 3 * (col / 3) + i % 3; // Calculate column index of subgrid
- 
-            if (board[subgridRow][subgridCol] == num) {
-                return false;
-            }
+            } 
+        } 
+        //grid 
+        int sr = 3 * (row/3); 
+        int sc = 3 * (col/3); 
+        for(int i=sr; i<sr+3; i++) { 
+            for(int j=sc; j<sc+3; j++) { 
+                if(board[i][j] == (char)(number+'0')) { 
+                    return false; 
+                } 
+            } 
+        }    
+    return true; 
+    } 
+    public boolean helper(char[][]board,int row,int col) { 
+        if(row ==board.length) { 
+            return true; 
+        } 
+        int nrow=0; 
+        int ncol=0;
+        if(col ==board.length-1) { 
+            nrow = row +1; ncol =0; 
         }
-
-        // Placement is valid
-        return true;
+        else{ 
+            nrow = row; ncol = col +1; 
+            } 
+        if(board[row][col] !='.') { 
+            if(helper(board, nrow, ncol)) { 
+                return true; 
+            } 
+        }else{ 
+            //fill the place
+            for(int i=1; i<=9; i++) { 
+                if(isSafe(board, row, col, i)) { 
+                    board[row][col] = (char)(i+'0');
+                    if(helper(board, nrow, ncol))
+                        return true; 
+                    else board[row][col] ='.';
+                } 
+            } 
+        } 
+    return false;
+    } 
+    public void solveSudoku(char[][]board) { 
+        helper(board,0,0); 
     }
 }
