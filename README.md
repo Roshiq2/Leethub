@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshiq2/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Roshiq2/Leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Roshiq2/Leethub/tree/master/2047-find-a-peak-element-ii) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Roshiq2/Leethub/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
@@ -160,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Roshiq2/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
