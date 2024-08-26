@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshiq2/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Roshiq2/Leethub/tree/master/0496-next-greater-element-i) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Roshiq2/Leethub/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
+| [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/Roshiq2/Leethub/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Roshiq2/Leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Roshiq2/Leethub/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Roshiq2/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshiq2/Leethub/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
