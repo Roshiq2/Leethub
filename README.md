@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Roshiq2/Leethub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Roshiq2/Leethub/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Roshiq2/Leethub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshiq2/Leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Roshiq2/Leethub/tree/master/0966-binary-subarrays-with-sum) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Roshiq2/Leethub/tree/master/0410-split-array-largest-sum) |
+| [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Roshiq2/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Roshiq2/Leethub/tree/master/0496-next-greater-element-i) |
+| [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Roshiq2/Leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
+| [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
