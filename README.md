@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Roshiq2/Leethub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Roshiq2/Leethub/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Roshiq2/Leethub/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Roshiq2/Leethub/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshiq2/Leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 ## Heap (Priority Queue)
@@ -156,16 +160,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
 ## Linked List
@@ -340,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
