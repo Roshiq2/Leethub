@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshiq2/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshiq2/Leethub/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Roshiq2/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Roshiq2/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshiq2/Leethub/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Roshiq2/Leethub/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Roshiq2/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -378,4 +380,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
