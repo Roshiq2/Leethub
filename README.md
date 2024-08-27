@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Roshiq2/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Roshiq2/Leethub/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Roshiq2/Leethub/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Roshiq2/Leethub/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Roshiq2/Leethub/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Roshiq2/Leethub/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Roshiq2/Leethub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
@@ -404,9 +406,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Roshiq2/Leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Roshiq2/Leethub/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Roshiq2/Leethub/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
