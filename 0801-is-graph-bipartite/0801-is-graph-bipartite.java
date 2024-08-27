@@ -1,56 +1,54 @@
+class Pair{
+    int x;
+    int color;
+    Pair(int x,int color){
+        this.x = x;
+        this.color = color;
+    }
+}
+
 class Solution {
-	int[] colors;
+    int m,n;
+    int[] visited;
+    int[] color;
+    boolean isBipartite = true;
+
+    void dfs(int[][] graph, Pair p) {  
+        
+        visited[p.x]=1; 
+        int[] neighbours = graph[p.x];
+        for(int i=0;i<neighbours.length;i++){
+            if(p.color == 2 && visited[neighbours[i]] == 0){
+                color[neighbours[i]] =1;
+                dfs(graph,new Pair(neighbours[i],1));
+            }
+            else if(p.color == 1 && visited[neighbours[i]] == 0){
+                color[neighbours[i]] =2;
+                dfs(graph,new Pair(neighbours[i],2));
+            }else if(visited[neighbours[i]] == 1 && p.color == color[neighbours[i]]){
+                isBipartite = false;
+                return;
+            }            
+        }
+        
+        return;
+    }
+
     public boolean isBipartite(int[][] graph) {
-        HashMap<Integer, ArrayList<Integer>> adj = new HashMap<Integer, ArrayList<Integer>>();
-		colors = new int[graph.length];
-		
-		for (int i = 0; i < graph.length; i++) {
-			adj.putIfAbsent(i, new ArrayList<Integer>());
-			for(int j=0;j<graph[i].length;j++){
-                adj.get(i).add(graph[i][j]);
-            }
-		}
-		
-		for (int i = 0; i < colors.length; i++) {
-			if(colors[i]==0 && adj.get(i)==null) {
-				colors[i]=1;
-			}
-			else if(colors[i]==0 && !(adj.get(i)==null)) {
-				if(!bfs(adj, i)) {
-					return false;
-				}
-			}
-		}
-		return true;
-	}
-	
-	private boolean bfs(HashMap<Integer, ArrayList<Integer>> adj, int node) {
-		ArrayList<Integer> que = new ArrayList<Integer>();
-		que.add(node);
-		colors[node] = 1;
-		int c =0;
-		while(que.size()>0) {
-			
-			for(int i=0;i<adj.get(que.get(0)).size();i++) {
-				if(colors[adj.get(que.get(0)).get(i)]==0) {
-					if(colors[que.get(0)]==1) {
-						colors[adj.get(que.get(0)).get(i)] = 2;
-						que.add(adj.get(que.get(0)).get(i));
-					}
-					else if(colors[que.get(0)]==2) {
-						colors[adj.get(que.get(0)).get(i)] = 1;
-						que.add(adj.get(que.get(0)).get(i));
-					}
-				}
-				else {
-					if(colors[que.get(0)]==colors[adj.get(que.get(0)).get(i)]) {
-						return false;
-					}
-					
-				}
-            }
-			que.remove(0);
-		}
-		return true	;
-	}
+        m = graph.length;
+        n = graph[0].length;
+        visited = new int[m];
+        color = new int[m];
+
+        //this for is to handle not connected graph case
+        for(int k=0;k<m;k++) {
+            if(visited[k]==0){
+            color[k] = 2;
+            dfs(graph,new Pair(k,2));
+            }            
+        }
+
+        return isBipartite;
+
+    }
 }
