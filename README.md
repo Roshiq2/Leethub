@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshiq2/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Roshiq2/Leethub/tree/master/0200-number-of-islands) |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshiq2/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Roshiq2/Leethub/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Roshiq2/Leethub/tree/master/0126-word-ladder-ii) |
