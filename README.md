@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Roshiq2/Leethub/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshiq2/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Roshiq2/Leethub/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Roshiq2/Leethub/tree/master/0435-non-overlapping-intervals) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Roshiq2/Leethub/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Roshiq2/Leethub/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Roshiq2/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -441,4 +443,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Roshiq2/Leethub/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Roshiq2/Leethub/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
