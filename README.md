@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Roshiq2/Leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Roshiq2/Leethub/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Roshiq2/Leethub/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Roshiq2/Leethub/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Roshiq2/Leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Roshiq2/Leethub/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Roshiq2/Leethub/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Roshiq2/Leethub/tree/master/0126-word-ladder-ii) |
 ## Stack
 |  |
