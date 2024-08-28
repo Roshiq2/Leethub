@@ -1,17 +1,16 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        def helper(n):
-            if n<0:
-                return 0
-            if n==0:
-                return nums[n]
-            if dp[n]!=-1:
-                return dp[n]
-            pick=nums[n]+helper(n-2)
-            notpick=helper(n-1)
-            dp[n]=max(pick,notpick)
-            return dp[n]
-
-        n=len(nums)
-        dp=[-1 for i in range(n)]
-        return helper(n-1)     
+        n = len(nums)
+        
+        if n == 1:
+            return nums[0]
+        
+        dp = [0] * n
+        
+        dp[0] = nums[0]
+        dp[1] = max(nums[0], nums[1])
+        
+        for i in range(2, n):
+            dp[i] = max(dp[i-1], nums[i] + dp[i-2])
+        
+        return dp[-1] 
