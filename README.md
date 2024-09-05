@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshiq2/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
+| [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshiq2/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Roshiq2/Leethub/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Roshiq2/Leethub/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshiq2/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Roshiq2/Leethub/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Roshiq2/Leethub/tree/master/0213-house-robber-ii) |
