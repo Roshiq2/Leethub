@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Roshiq2/Leethub/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshiq2/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Roshiq2/Leethub/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Roshiq2/Leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Roshiq2/Leethub/tree/master/0542-01-matrix) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshiq2/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Roshiq2/Leethub/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/Roshiq2/Leethub/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Roshiq2/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Roshiq2/Leethub/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Roshiq2/Leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Roshiq2/Leethub/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Roshiq2/Leethub/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Roshiq2/Leethub/tree/master/0126-word-ladder-ii) |
 ## Stack
 |  |
@@ -364,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshiq2/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Roshiq2/Leethub/tree/master/0101-symmetric-tree) |
