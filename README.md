@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Roshiq2/Leethub/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshiq2/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Roshiq2/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Roshiq2/Leethub/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Roshiq2/Leethub/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
