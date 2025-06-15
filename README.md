@@ -488,4 +488,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Roshiq2/Leethub/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Roshiq2/Leethub/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
