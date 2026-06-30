@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Roshiq2/Leethub/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshiq2/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -65,8 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2047-find-a-peak-element-ii](https://github.com/Roshiq2/Leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Roshiq2/Leethub/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshiq2/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
@@ -86,12 +86,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/Roshiq2/Leethub/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Roshiq2/Leethub/tree/master/2047-find-a-peak-element-ii) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1185-find-in-mountain-array](https://github.com/Roshiq2/Leethub/tree/master/1185-find-in-mountain-array) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Roshiq2/Leethub/tree/master/0062-unique-paths) |
@@ -106,8 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Roshiq2/Leethub/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshiq2/Leethub/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Roshiq2/Leethub/tree/master/0135-candy) |
@@ -120,15 +120,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Roshiq2/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Roshiq2/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Roshiq2/Leethub/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Roshiq2/Leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Roshiq2/Leethub/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshiq2/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
@@ -136,8 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Roshiq2/Leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
@@ -151,8 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/Roshiq2/Leethub/tree/master/2047-find-a-peak-element-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Roshiq2/Leethub/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Roshiq2/Leethub/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Roshiq2/Leethub/tree/master/0067-add-binary) |
@@ -163,8 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Roshiq2/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshiq2/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Roshiq2/Leethub/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Roshiq2/Leethub/tree/master/0067-add-binary) |
@@ -180,19 +180,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Roshiq2/Leethub/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Roshiq2/Leethub/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Roshiq2/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Roshiq2/Leethub/tree/master/0014-longest-common-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-rotate-string](https://github.com/Roshiq2/Leethub/tree/master/0812-rotate-string) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Roshiq2/Leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshiq2/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
@@ -215,11 +216,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Roshiq2/Leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
@@ -229,8 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Roshiq2/Leethub/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
@@ -239,19 +241,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Roshiq2/Leethub/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Roshiq2/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0021-merge-two-sorted-lists) |
@@ -267,8 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/Roshiq2/Leethub/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Roshiq2/Leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Roshiq2/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Roshiq2/Leethub/tree/master/0061-rotate-list) |
@@ -281,24 +283,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/Roshiq2/Leethub/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Roshiq2/Leethub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Roshiq2/Leethub/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Roshiq2/Leethub/tree/master/0024-swap-nodes-in-pairs) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Roshiq2/Leethub/tree/master/0067-add-binary) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Roshiq2/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Roshiq2/Leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Roshiq2/Leethub/tree/master/0040-combination-sum-ii) |
@@ -306,8 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Roshiq2/Leethub/tree/master/0126-word-ladder-ii) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshiq2/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshiq2/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Roshiq2/Leethub/tree/master/0225-implement-stack-using-queues) |
@@ -319,30 +321,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Roshiq2/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Roshiq2/Leethub/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Roshiq2/Leethub/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Roshiq2/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshiq2/Leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Roshiq2/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshiq2/Leethub/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshiq2/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Roshiq2/Leethub/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Roshiq2/Leethub/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshiq2/Leethub/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Roshiq2/Leethub/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshiq2/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Roshiq2/Leethub/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
@@ -350,20 +352,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Roshiq2/Leethub/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Roshiq2/Leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Roshiq2/Leethub/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Roshiq2/Leethub/tree/master/0146-lru-cache) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshiq2/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Roshiq2/Leethub/tree/master/0101-symmetric-tree) |
@@ -382,8 +385,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshiq2/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0098-validate-binary-search-tree) |
@@ -404,8 +407,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Roshiq2/Leethub/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshiq2/Leethub/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Roshiq2/Leethub/tree/master/0101-symmetric-tree) |
@@ -424,8 +427,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Roshiq2/Leethub/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Roshiq2/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Roshiq2/Leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -444,8 +447,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Roshiq2/Leethub/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Roshiq2/Leethub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -453,17 +456,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshiq2/Leethub/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Roshiq2/Leethub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Roshiq2/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Roshiq2/Leethub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
@@ -471,29 +474,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Roshiq2/Leethub/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Roshiq2/Leethub/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Roshiq2/Leethub/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Roshiq2/Leethub/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Roshiq2/Leethub/tree/master/0207-course-schedule) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Roshiq2/Leethub/tree/master/0070-climbing-stairs) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Roshiq2/Leethub/tree/master/0062-unique-paths) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Roshiq2/Leethub/tree/master/0067-add-binary) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Roshiq2/Leethub/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
