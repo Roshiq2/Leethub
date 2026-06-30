@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Roshiq2/Leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Roshiq2/Leethub/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/Roshiq2/Leethub/tree/master/1646-kth-missing-positive-number) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Roshiq2/Leethub/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/Roshiq2/Leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Roshiq2/Leethub/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Roshiq2/Leethub/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Roshiq2/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Roshiq2/Leethub/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Roshiq2/Leethub/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Roshiq2/Leethub/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
