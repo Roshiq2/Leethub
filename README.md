@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshiq2/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Roshiq2/Leethub/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Roshiq2/Leethub/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Roshiq2/Leethub/tree/master/0162-find-peak-element) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Roshiq2/Leethub/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Roshiq2/Leethub/tree/main/0136-single-number/) | Easy |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Roshiq2/Leethub/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Backtracking
 | Problem Name | Difficulty |
