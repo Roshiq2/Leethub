@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Roshiq2/Leethub/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Roshiq2/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Roshiq2/Leethub/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Roshiq2/Leethub/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
@@ -519,4 +522,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Roshiq2/Leethub/tree/master/0175-combine-two-tables) |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
