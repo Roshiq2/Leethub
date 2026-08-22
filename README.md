@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Roshiq2/Leethub/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Roshiq2/Leethub/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Roshiq2/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Roshiq2/Leethub/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Roshiq2/Leethub/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Roshiq2/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Roshiq2/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Roshiq2/Leethub/tree/master/0070-climbing-stairs) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshiq2/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Roshiq2/Leethub/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Roshiq2/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
