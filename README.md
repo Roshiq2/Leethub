@@ -547,4 +547,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Roshiq2/Leethub/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
