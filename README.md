@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Roshiq2/Leethub/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshiq2/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Roshiq2/Leethub/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Roshiq2/Leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Roshiq2/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Roshiq2/Leethub/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Roshiq2/Leethub/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
