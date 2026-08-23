@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Roshiq2/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Roshiq2/Leethub/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Roshiq2/Leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Roshiq2/Leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Roshiq2/Leethub/tree/master/0200-number-of-islands) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshiq2/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Roshiq2/Leethub/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Roshiq2/Leethub/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Roshiq2/Leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Roshiq2/Leethub/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Roshiq2/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Roshiq2/Leethub/tree/master/0127-word-ladder) |
