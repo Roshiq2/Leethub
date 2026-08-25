@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshiq2/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/Roshiq2/Leethub/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshiq2/Leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Roshiq2/Leethub/tree/master/0135-candy) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Roshiq2/Leethub/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Roshiq2/Leethub/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Roshiq2/Leethub/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshiq2/Leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Roshiq2/Leethub/tree/master/0198-house-robber) |
