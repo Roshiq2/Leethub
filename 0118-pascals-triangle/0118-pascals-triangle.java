@@ -8,12 +8,9 @@ class Solution {
     }
     public static List<Integer> generateList(int n) {
         List<Integer> ros = new ArrayList<>();
-        int res =1;
-        ros.add(res);
+        ros.add(1);
         for(int i=1; i < n ; i++) {
-            res *= (n-i);
-            res /= i;
-            ros.add(res);
+            ros.add((ros.get(i-1) * (n-i))/i);
         }
         return ros;
     }
