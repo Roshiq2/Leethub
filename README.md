@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Roshiq2/Leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Roshiq2/Leethub/tree/master/1073-number-of-enclaves) |
 | [1185-find-in-mountain-array](https://github.com/Roshiq2/Leethub/tree/master/1185-find-in-mountain-array) |
+| [1366-rank-teams-by-votes](https://github.com/Roshiq2/Leethub/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Roshiq2/Leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Roshiq2/Leethub/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Roshiq2/Leethub/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Roshiq2/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1366-rank-teams-by-votes](https://github.com/Roshiq2/Leethub/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Roshiq2/Leethub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Roshiq2/Leethub/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1366-rank-teams-by-votes](https://github.com/Roshiq2/Leethub/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Roshiq2/Leethub/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Roshiq2/Leethub/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
+| [1366-rank-teams-by-votes](https://github.com/Roshiq2/Leethub/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Roshiq2/Leethub/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Roshiq2/Leethub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Roshiq2/Leethub/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -291,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
+| [1366-rank-teams-by-votes](https://github.com/Roshiq2/Leethub/tree/main/1366-rank-teams-by-votes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
