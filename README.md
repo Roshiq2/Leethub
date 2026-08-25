@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Roshiq2/Leethub/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Roshiq2/Leethub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Roshiq2/Leethub/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Roshiq2/Leethub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/Roshiq2/Leethub/tree/master/2047-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Roshiq2/Leethub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2227-sum-of-subarray-ranges](https://github.com/Roshiq2/Leethub/tree/master/2227-sum-of-subarray-ranges) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Roshiq2/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1980-find-unique-binary-string](https://github.com/Roshiq2/Leethub/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Roshiq2/Leethub/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Roshiq2/Leethub/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1980-find-unique-binary-string](https://github.com/Roshiq2/Leethub/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Roshiq2/Leethub/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Roshiq2/Leethub/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Roshiq2/Leethub/tree/master/0126-word-ladder-ii) |
+| [1980-find-unique-binary-string](https://github.com/Roshiq2/Leethub/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
