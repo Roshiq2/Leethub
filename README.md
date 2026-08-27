@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Roshiq2/Leethub/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Roshiq2/Leethub/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Roshiq2/Leethub/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Roshiq2/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Roshiq2/Leethub/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Roshiq2/Leethub/tree/master/0240-search-a-2d-matrix-ii) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Roshiq2/Leethub/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Roshiq2/Leethub/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Roshiq2/Leethub/tree/master/0355-design-twitter) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Roshiq2/Leethub/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Roshiq2/Leethub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Roshiq2/Leethub/tree/master/0435-non-overlapping-intervals) |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Roshiq2/Leethub/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Roshiq2/Leethub/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Roshiq2/Leethub/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Roshiq2/Leethub/tree/master/1034-subarrays-with-k-different-integers) |
@@ -568,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Roshiq2/Leethub/tree/main/0229-majority-element-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
