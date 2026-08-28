@@ -6,6 +6,11 @@ class Solution {
         int x=0;
         while(x<n-2) {
             int i = x+1;
+            if (i > x + 1 && nums[i] == nums[i - 1]) {
+                i++;
+                continue;
+            }
+                 
             while (i < n - 1) {
                 int j = i + 1;
                 int k = n;
