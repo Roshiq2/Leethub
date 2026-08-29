@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Roshiq2/Leethub/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Roshiq2/Leethub/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Roshiq2/Leethub/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Roshiq2/Leethub/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Roshiq2/Leethub/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Roshiq2/Leethub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Roshiq2/Leethub/tree/master/0074-search-a-2d-matrix) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Roshiq2/Leethub/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Roshiq2/Leethub/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Roshiq2/Leethub/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
@@ -569,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Roshiq2/Leethub/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
