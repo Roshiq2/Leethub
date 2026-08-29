@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshiq2/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Roshiq2/Leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Roshiq2/Leethub/tree/main/0118-pascals-triangle/) | Easy |
 | [0120-triangle](https://github.com/Roshiq2/Leethub/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshiq2/Leethub/tree/master/0128-longest-consecutive-sequence) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Roshiq2/Leethub/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Roshiq2/Leethub/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Roshiq2/Leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Roshiq2/Leethub/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Roshiq2/Leethub/tree/master/0215-kth-largest-element-in-an-array) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Roshiq2/Leethub/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Roshiq2/Leethub/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Roshiq2/Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Roshiq2/Leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Roshiq2/Leethub/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Roshiq2/Leethub/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Roshiq2/Leethub/tree/master/0160-intersection-of-two-linked-lists) |
