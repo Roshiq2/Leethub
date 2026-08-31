@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Roshiq2/Leethub/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Roshiq2/Leethub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Roshiq2/Leethub/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Roshiq2/Leethub/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0876-hand-of-straights](https://github.com/Roshiq2/Leethub/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Roshiq2/Leethub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Roshiq2/Leethub/tree/master/0890-lemonade-change) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Roshiq2/Leethub/tree/main/0704-binary-search/) | Easy |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Roshiq2/Leethub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Roshiq2/Leethub/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Roshiq2/Leethub/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Roshiq2/Leethub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Roshiq2/Leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Roshiq2/Leethub/tree/master/1185-find-in-mountain-array) |
