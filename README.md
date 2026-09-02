@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1366-rank-teams-by-votes](https://github.com/Roshiq2/Leethub/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshiq2/Leethub/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Roshiq2/Leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshiq2/Leethub/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Roshiq2/Leethub/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/Roshiq2/Leethub/tree/master/1646-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Roshiq2/Leethub/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Roshiq2/Leethub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Roshiq2/Leethub/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Roshiq2/Leethub/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshiq2/Leethub/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1646-kth-missing-positive-number](https://github.com/Roshiq2/Leethub/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Roshiq2/Leethub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/Roshiq2/Leethub/tree/master/2047-find-a-peak-element-ii) |
